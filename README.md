@@ -7,4 +7,4 @@ The official training code
 
 ## license
 
-[MIT Licence]()
+[MIT Licence](https://github.com/tew9/revature_training/blob/master/LICENSE)
